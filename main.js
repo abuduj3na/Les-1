@@ -32,6 +32,6 @@ while(Gender != 'Man' && Gender != 'Vrouw') {
 
 
 
-console.log('Mijn naam is '+ Naam);
-console.log('Mijn leeftijd is '+ Leeftijd);
-console.log('Jouw Gender is '+ Gender)
+console.log('Mijn naam is: '+ Naam);
+console.log('Mijn leeftijd is: '+ Leeftijd);
+console.log('Jouw Gender is: '+ Gender)
