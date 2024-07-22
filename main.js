@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-var Naam
+var Naam = 'volkan'
 var Leeftijd
 var Gender 
 
