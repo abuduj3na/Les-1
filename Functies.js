@@ -2,6 +2,7 @@ const prompt = require("prompt-sync")();
 
 // Vraag aan gebruiker als die som, maal ,min, of delen doen
 // vraag aan gebruiker als die verder wilt gaan en nog iets anders berekenen
+// Volkan was here
 
 var Getal1;
 var Getal2;
